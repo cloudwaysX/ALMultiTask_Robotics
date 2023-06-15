@@ -4,26 +4,7 @@
 - uncomment the save file part in each python file to save results
 - double check the file directions if something went wrong
 
-# Neural-Fly enables rapid learning for agile flight in strong winds
-
-Michael O'Connell[^equal],
-Guanya Shi[^equal],
-Xichen Shi,
-Kamyar Azizzadenesheli,
-Anima Anandkumar,
-Yisong Yue, and
-Soon-Jo Chung[^corresponding]
-
-[^equal]: equal contribution and alphabetical order
-
-[^corresponding]: corresponding author - sjchung@caltech.edu
-
-This data and code is provided as part of the Science Robotics research article "Neural-Fly enables rapid learning for agile flight in strong winds", published on May 4th, 2022 [here](https://www.science.org/doi/abs/10.1126/scirobotics.abm6597).
-
-
-## Citation
-
-The data and code here are for personal and educational use only and provided without warranty; written permission from the authors is required for further use. Please cite our work as follows.
+# Drone Dataset: Neural-Fly enables rapid 
 
 > @article{
 doi:10.1126/scirobotics.abm6597,
@@ -32,3 +13,21 @@ title = {Neural-Fly enables rapid learning for agile flight in strong winds},
 journal = {Science Robotics},
 volume = {7},
 number = {66},
+
+
+
+# Authorship
+
+Yifang Chen[^corresponding],
+Yingbing Huang,
+Simon Du[^equal],
+Guanya Shi[^equal],
+Kevin Jamieson[^equal],
+
+
+[^equal]: equal advising
+
+[^corresponding]: corresponding author - yifangc@cs.washington.edu
+
+This data and code is provided as part of the article "Active Representation Learning for General Task Space with Applications
+  in Robotics".
