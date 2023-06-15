@@ -1,0 +1,12 @@
+{
+    "embed_dim": 8,
+    "input_dim": 60,
+    "num_target_sample": 4000,
+    "active": true,
+    "target_aware": true,
+    "saving_task_num": true,
+    "base_len_ratio": 1,
+    "exp_base": 1.7,
+    "outer_epoch_num": 5,
+    "actual_target":  [0, 0, 0.5, 0, 0.5, 0]
+    }
